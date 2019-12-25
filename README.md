@@ -4,14 +4,15 @@ CNN models - Resnet50 and InceptionV3 have been applied on the dataset.
 
 The models have been compared on various metrics -
 
-Overall accuracy
-Class wise accuracy
-Precision
-Recall
-AUC Score
-F1 score
+1. Overall accuracy
+2. Class wise accuracy
+3. Precision
+4. Recall
+5. AUC Score
+6. F1 score
+
 The files should be executed in the following order -
 
-data_augmentation.py
-Resnet_Training.py / InceptionV3_Training.py
-Model_Predictions.py
+1. data_augmentation.py
+2. Resnet_Training.py / InceptionV3_Training.py
+3. Model_Predictions.py
